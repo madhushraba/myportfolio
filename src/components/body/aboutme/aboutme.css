@@ -1,15 +1,9 @@
-/* .aboutme{
-    font-size: 28px;
-    font-weight: 500;
-    /* margin-right: 60px; */
-
-
 
 .aboutme {
-    height: 100vh;
+   
     display: flex;
     align-items: center;
-    /* background-color: rgb(220, 235, 245); */
+  
   }
   
   .a-left {
@@ -34,7 +28,7 @@
   
   .a-card {
     width: 60%;
-    height: 70vh;
+    height: 50vh;
     border-radius: 30px;
     position: relative;
     overflow: hidden;
@@ -46,11 +40,11 @@
     object-fit: cover;
   }
   
-  .a-award-img {
+  /* .a-award-img {
     width: 120px;
     height: 120px;
     border-radius: 20px;
-  }
+  } */
   
   .a-title {
     font-weight: 600;
@@ -67,12 +61,12 @@
       font-size: 18px;
   }
   
-  .a-award{
+  /* .a-award{
       margin-top: 50px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-  }
+  } 
   
   .a-award-texts{
       width: 70%;
@@ -82,15 +76,20 @@
       font-weight: bold;
       color: rgb(150, 4, 53);
       margin-bottom: 10px;
-  }
+  }*/
   
   @media screen and (max-width:480px) {
-      .a{
+      /* .a{
         flex-direction: column;
         text-align: center;
         margin-top: 10px;
-      }
-  
+        
+      } */
+  .aboutme{
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+  }
       .a-left {
         width: 100%;
       }
@@ -108,4 +107,11 @@
       .a-right{
         padding: 20px;
       }
+  }
+
+
+  @media screen and (max-width:790px){
+    .a-card.bg{
+      display: none;
+    }
   }

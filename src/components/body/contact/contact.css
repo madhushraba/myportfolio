@@ -22,7 +22,7 @@
   }
   
   .download {
-    background-color: rgb(95, 175, 185);
+    background-color: rgb(115, 195, 206);
     padding: 8px 16px;
     font-size: 24px;
     display: flex;
@@ -30,9 +30,12 @@
     align-items: center;
     border-radius: 24px;
   }
+  .download:hover{
+    background-color: rgb(51, 134, 145);
+  }
   .download a {
     text-decoration: none;
-    color: rgb(88, 35, 53);
+    color: rgb(105, 10, 42);
     
   }
   

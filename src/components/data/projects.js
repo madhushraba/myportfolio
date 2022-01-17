@@ -30,16 +30,18 @@ export const ProjectData =[
     tags:['ReactJs','Github'],  
     demo: 'www.portfolio.com',
     github:'www.msss.com',
-    image:'https://images.unsplash.com/photo-1641275714358-b202ae1a2c78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
+    image:'https://media.istockphoto.com/photos/adaptive-and-responsive-web-design-concept-showing-sample-website-on-picture-id1301151581?b=1&k=20&m=1301151581&s=170667a&w=0&h=zYikz0ajSyA3ZR7h5vbjuLkVwe_efU50t7qCwnEObjE='
+    // image:'https://images.unsplash.com/photo-1641275714358-b202ae1a2c78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
 //    image:'https://images.unsplash.com/photo-1641802914005-2a9b0f3165b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8T3h5bnRKb0JERll8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60'
 
 },{
-    title:'PROJECT3',
+    title:'BLOGGER',
     about:'COMING SOON....',
     tags:['react','node','firebase','api'],  
     demo: 'www.wazirx.com',
     github:'www.msss.com',
-    image:'https://images.unsplash.com/photo-1641275714358-b202ae1a2c78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
+    image:'https://media.istockphoto.com/photos/content-marketing-content-data-blogging-media-publication-information-picture-id976370312?b=1&k=20&m=976370312&s=170667a&w=0&h=XVzeWIVV9S3ycATHqVBWOw8__Wq6Gr55JuKYWbRUHrA='
+   // image:'https://images.unsplash.com/photo-1641275714358-b202ae1a2c78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
 //    image:'https://images.unsplash.com/photo-1641802914005-2a9b0f3165b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8T3h5bnRKb0JERll8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60'
 
 }

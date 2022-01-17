@@ -7,7 +7,7 @@ function Header() {
     const [isOpen, setisOpen] = useState(false)
     return (
         <div className='header'>
-            <div className="logo">PORTFOLIO</div>
+            <div className="logo">MADHUSHRABA</div>
             <div className="menu">
                 <div className="web-menu">
                     <Web/>
