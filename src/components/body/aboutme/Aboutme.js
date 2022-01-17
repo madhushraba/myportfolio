@@ -17,18 +17,19 @@ const Aboutme = () => {
         {/* <Separator/> */}
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-        I am currently in my 3rd year in Maulana Abul Kalam Azad University of Technology 
-          pursuing Bachelor of Technology in Computer Science and
+          I am currently in my 3rd year in Maulana Abul Kalam Azad University of
+          Technology pursuing Bachelor of Technology in Computer Science and
           Engineering.
         </p>
         <p className="a-desc">
-           As a web developer, I enjoy bridging the gap between
-          engineering and design — combining my technical knowledge with my keen
-          eye for design to create a beautiful product. My goal is to always
-          build applications that are scalable and efficient under the hood
-          while providing engaging, pixel-perfect user experiences.<br/> When I'm not
-          in front of a computer screen, I'm probably reading books, travelling, doing curricular activities
-          or playing video games.
+          As a web developer, I enjoy bridging the gap between engineering and
+          design — combining my technical knowledge with my keen eye for design
+          to create a beautiful product. My goal is to always build applications
+          that are scalable and efficient under the hood while providing
+          engaging, pixel-perfect user experiences.
+          <br /> When I'm not in front of a computer screen, I'm probably
+          reading books, travelling, doing curricular activities or playing
+          video games.
         </p>
 
         <div className="download">

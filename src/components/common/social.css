@@ -1,27 +1,22 @@
-.social-con{
-   display: flex;
-   justify-content: center;
-   align-items: center;
+.social-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
-.social-icon-div{
+.social-icon-div {
     padding: 5px;
     cursor: pointer;
     margin: 6px;
 }
-.social-icon{
+
+.social-icon {
     height: 40px;
 }
 
 @media only screen and (max-width:720px) {
-    .social-icon{
+    .social-icon {
         height: 23px;
     }
 }
-
-
-
-
-
-

@@ -1,55 +1,48 @@
-.about{
+.about {
     padding: 40px;
     /* background-color: aqua; */
     /* height: 150%; */
 }
 
-.about-top{
+.about-top {
     display: flex;
     justify-content: center;
 
-align-items: center;}
+    align-items: center;
+}
 
-.pic{
+.pic {
     height: 400px;
 }
-.about-info{
+
+.about-info {
     font-size: 24px;
 }
-.info-name{
+
+.info-name {
     color: rgb(148, 0, 74);
     font-size: 28px;
     font-weight: 900px;
 }
-@media only screen and (max-width: 720px){
-    .about-top{
+
+@media only screen and (max-width: 720px) {
+    .about-top {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-    .pic{
+
+    .pic {
         height: 270px;
         padding: 50px;
     }
-    .about-info{
+
+    .about-info {
         font-size: 20px;
     }
-    .info-name{
+
+    .info-name {
         font-size: 24px;
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

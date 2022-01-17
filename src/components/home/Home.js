@@ -8,13 +8,12 @@ function Home() {
   return (
     <div className="home">
       <div className="">
-        <Header /></div>
+        <Header />
+      </div>
 
-        <div className="">
-          <Body />
-        </div>
-
-      
+      <div className="">
+        <Body />
+      </div>
     </div>
   );
 }

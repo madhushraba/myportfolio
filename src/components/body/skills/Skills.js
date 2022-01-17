@@ -1,9 +1,9 @@
 import React from "react";
 import "./skills.css";
 
- import SkillCard from "./skill-card";
- import Separator from "../../common/separator";
- import { SkillsData } from "../../data/skill";
+import SkillCard from "./skill-card";
+import Separator from "../../common/separator";
+import { SkillsData } from "../../data/skill";
 
 function Skills() {
   const data = SkillsData;
@@ -18,8 +18,7 @@ function Skills() {
               <label className="skills-section-title">{item.type}</label>
               <div className="skills-list">
                 {item.list.map((skill) => {
-                   return <SkillCard skill={skill} />;
-                
+                  return <SkillCard skill={skill} />;
                 })}
               </div>
             </div>
@@ -30,9 +29,7 @@ function Skills() {
   );
 }
 
- export default Skills;
-
-
+export default Skills;
 
 //import React from 'react'
 

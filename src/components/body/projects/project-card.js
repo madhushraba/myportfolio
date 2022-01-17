@@ -22,9 +22,6 @@
 
 // export default ProjectCard;
 
-
-
-
 import React from "react";
 import "./project-card.css";
 function ProjectCard({ project }) {

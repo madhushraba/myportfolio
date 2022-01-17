@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Work() {
-    return (
-        <div>
-            WROK
-        </div>
-    )
+  return <div>WROK</div>;
 }
 
-export default Work
+export default Work;

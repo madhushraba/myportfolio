@@ -5,8 +5,7 @@ import { ProjectData } from "../../data/projects";
 //import { ProjectData } from "../../../data/projects";
 import Separator from "../../common/separator/index";
 function Projects() {
-
-  const data = ProjectData
+  const data = ProjectData;
   return (
     <div className="projects">
       <Separator />
@@ -21,16 +20,6 @@ function Projects() {
 }
 
 export default Projects;
-
-
-
-
-
-
-
-
-
-
 
 // import React from 'react'
 // import { ProjectData } from '../../data/projects'
@@ -52,5 +41,3 @@ export default Projects;
 // }
 
 // export default Project
-
-
